@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "AFP",
+      "title": "Langer delivers shock resignation as Australia cricket coach",
+      "description": "Australian men's cricket coach Justin Langer announced his surprise resignation Saturday, just weeks after trouncing archrivals England in a lopsided Ashes series and months after winning the T20 World Cup.",
+      "url": "https://www.news24.com/sport/Cricket/langer-delivers-shock-resignation-as-australia-cricket-coach-20220205",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/301/3323be7516ad44bca7329459b99ea751.jpg",
+      "publishedAt": "2022-02-05T06:43:06+00:00",
+      "content": "Australian men's cricket coach Justin Langer announced his surprise resignation Saturday, just weeks after trouncing archrivals England in a lopsided Ashes series and months after winning the T20 Wor… [+4081 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Dean Bilton",
+      "title": "Justin Langer was the perfect coach for the Australian cricket team, until the game left him behind",
+      "description": "Justin Langer helped lead Australian cricket out of crisis and into a new generation — one that must now go on without him, writes Dean Bilton.",
+      "url": "http://www.abc.net.au/news/2022-02-05/justin-langer-australia-coach-reign-ends-game-changed/100807728",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2e67f116b72bf860cad25b3cf7a7ee02?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=62&width=862&height=485",
+      "publishedAt": "2022-02-05T05:02:18Z",
+      "content": "What comes to mind when you think of Justin Langer?\r\nThere's the modern version  cap backwards and barefoot on the outfield grass, all mindfulness and elite honesty and an arm around every shoulder.\r… [+8884 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Langer resigns as Australia coach",
+      "description": "Justin Langer resigns as coach of the Australia men's cricket team, ending months of speculation as to whether he would continue in the role.",
+      "url": "http://www.bbc.co.uk/sport/cricket/60269322",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/AF22/production/_123143844_langer1.jpg",
+      "publishedAt": "2022-02-05T01:22:22.8153615Z",
+      "content": "Justin Langer had been seeking a contract extension\r\nJustin Langer has resigned as coach of the Australia men's cricket team.\r\nThe 51-year-old's contract was going to expire at the end of June and he… [+880 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
